@@ -3,29 +3,18 @@
 """ Perform basic calculations with 2 numbers"""
 
 """Addition"""
-
-
 def add(number1, number2):
   return number1 + number2
 
-
 """Subtraction"""
-
-
 def sub(number1, number2):
   return number1 - number2
 
-
 """Multiplication"""
-
-
 def mul(number1, number2):
   return number1 * number2
 
-
 """Division"""
-
-
 def div(number1, number2):
   return number1 / number2
 
